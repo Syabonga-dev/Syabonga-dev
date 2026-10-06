@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Syabonga+Njabulo+Duma;Software+Developer;Final-Year+IT+Student;ASP.NET+Core+%7C+React+%7C+C%23" />
@@ -106,4 +105,3 @@ Nelson Mandela University
 ![Profile Views](https://komarev.com/ghpvc/?username=Syabonga-dev&label=PROFILE+VIEWS&color=6C63FF&style=flat-square)
 
 </div>
-```
