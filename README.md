@@ -66,10 +66,9 @@ Cybersecurity awareness platform focused on helping users understand online thre
 **Diploma in Information Technology — Software Development**  
 Nelson Mandela University
 
-- Cisco Cybersecurity
-- Cisco Networking
-- Propella Innovative ICT Programme
-
+- CCNA: Introduction Cybersecurity 
+- CCNA: Introduction to Networks
+- Codewrkx Introduction to Cloud Engineering
 ---
 
 ## 📊 GitHub Stats
