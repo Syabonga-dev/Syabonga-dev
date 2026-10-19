@@ -98,9 +98,7 @@ Nelson Mandela University
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syabonga-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
+[![GitHub Profile](https://img.shields.io/badge/View_Contribution_Calendar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syabonga-dev)
 </div>
 
 ---
