@@ -97,9 +97,7 @@ Nelson Mandela University
 
 ## 📈 Contribution Activity
 
-<div align="center">
 [![GitHub Profile](https://img.shields.io/badge/View_Contribution_Calendar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syabonga-dev)
-</div>
 
 ---
 
